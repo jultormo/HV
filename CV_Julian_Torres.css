@@ -1,0 +1,171 @@
+body{
+    
+    
+    justify-content: center;
+    display: flex;
+    background-color: gray;
+   
+  
+}
+
+p{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 80%;
+    font-family: Tahoma;
+}
+li{
+    font-family: Tahoma;
+    font-size: 80%;
+    color: rgba(99, 99, 99, 0.89);
+    text-align: justify;
+    margin-bottom: 11px;
+    line-height: 15px;
+}
+
+#contacto{
+    font-family: Tahoma;
+  
+}
+
+.info{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    color: rgba(121, 121, 121, 0.89);
+}
+
+.fa-thumbs-down:before {
+    content: "\f165"; 
+}
+
+#iconos{
+    color: rgba(15, 180, 0, 0.89);
+}
+#iconos2{
+    color: rgba(121, 121, 121, 0.89);
+}
+
+h1{  
+    font-family: Tahoma;
+    font-size: 30pt;
+    margin-bottom: 0px;
+}
+h2{
+    font-family: Tahoma;
+    color: rgba(15, 180, 0, 0.89);
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+    padding-bottom: 3px;
+     
+}
+h3{
+    font-family: Tahoma;
+    color: rgba(15, 180, 0, 0.89);
+}
+h4{
+    font-family: Tahoma;
+    color: rgba(49, 49, 49, 0.89);
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+h5{
+    font-family: Tahoma;
+    color: rgba(15, 180, 0, 0.89);
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+
+.Page{
+
+    padding-left: 30px;
+    padding-top: 40px;
+    background-color: white;
+    width: 800px;
+    height: 1400px;
+    border: none;
+    border-width: thin;   
+}
+
+.Cabecera{
+    width: 800px;
+    height: 12%;
+    border: none;
+    border-width: thin;   
+}
+
+.Contenido{
+    width: 800px;
+    height: 80%;
+    border: none;
+    border-width: thin;
+    display: flex; 
+
+}
+.Pie_pag{
+    width: 800px;
+    height: 10%;
+    border: none;
+    border-width: thin;   
+}
+
+
+
+.Left{
+    float: left;
+    width: 65%;
+    border: none;
+    height: 100%;
+    border-width: thin;  
+}
+.espacio{
+    width: 4%;
+    height: 100%;
+    border: none;
+    border-width: thin;
+     
+}
+
+.Right{
+    float: right;
+    width: 26%;
+    border: none;
+    height: 100%;
+    border-width: thin;  
+}
+
+.separador{
+    border-bottom:dashed;
+    border-width: 1px;
+    color: rgba(121, 121, 121, 0.89);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#Experience{
+    margin-bottom: 30px;
+}
+
+.Tskills{
+    text-align: left;
+}
+
+div.esfera {
+    text-align: left;
+    width: 15px;
+    height: 15px;
+    background-color: green;
+    background: rgba(15, 180, 0, 0.89);
+    -ms-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -o-border-radius: 150px;
+    border-radius: 150px;
+    margin-right: 4px;
+    margin-top: 7px;
+    
+}
+
+#Idiomas{
+    display: flex;
+}
